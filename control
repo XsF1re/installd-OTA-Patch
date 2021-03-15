@@ -1,7 +1,7 @@
 Package: kr.xsf1re.installdpatch
 Name: installd OTA Patch
 Depends: mobilesubstrate
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Tested on iOS 11.3.1 - 13.3. Freedom is non-negotiable. Makes installd allow over-the-air installation of IPAs signed by free developer accounts.
 Maintainer: XsF1re
